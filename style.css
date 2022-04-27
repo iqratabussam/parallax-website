@@ -1,0 +1,76 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.backimg1{
+    width: 100%;
+    height: 600px;
+    background-image: url(images.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.backimg1 h1{
+    font-size: 20px;
+    color: teal;
+    background-color:black;
+    padding: 10px;
+    top:  300px;
+    text-align: center;
+    height: 25px;
+    width: 200px;
+    position: relative;
+    left: 600px;
+}
+.backimg2{
+    width: 100%;
+    height: 600px;
+    background-image: url(images\ \(3\).jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.backimg2 h1{
+    font-size: 20px;
+    color: rgb(128, 0, 107);
+    background-color: black;
+    padding: 10px;
+    top:  300px;
+    text-align: center;
+    height: 25px;
+    width: 200px;
+    position: relative;
+    left: 600px;
+}
+
+.backimg3{
+    width: 100%;
+    height: 600px;
+    background-image: url(images\ \(4\).jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.backimg3 h1{
+    font-size: 20px;
+    color: rgb(0, 128, 11);
+    background-color: black;
+    padding: 10px;
+    top:  300px;
+    text-align: center;
+    height: 25px;
+    width: 200px;
+    position: relative;
+    left: 600px;
+}
+.pahra{
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    padding: 20px 10px;
+    text-align: center;
+    height: 70px;
+
+}
